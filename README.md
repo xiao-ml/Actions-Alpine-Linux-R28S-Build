@@ -1,4 +1,4 @@
-# Actions-Alpine-Linux
+# Actions-Alpine-Linux-R28S-Build
 此项目用于构建可直接运行在友善电子开发板上的Alpine Linux系统。  
 [Switch to English](README_en.md)  
 ### 基本信息 
